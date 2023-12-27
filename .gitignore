@@ -1,0 +1,5 @@
+# ignore index
+index.php
+
+# ignore uploads
+uploads/
