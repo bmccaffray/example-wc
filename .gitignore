@@ -3,3 +3,6 @@ index.php
 
 # ignore uploads
 uploads/
+
+# ignore uploads
+plugins/woocommerce/
