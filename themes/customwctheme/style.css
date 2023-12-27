@@ -1,0 +1,19 @@
+/*
+Theme Name: Custom WC Theme
+Theme URI: -
+Author: Brett McCaffray
+Author URI: https://brettmccaffray.com
+Description: Custom WC Theme is a very basic testing-ground for customizing wordpress/woocommerce theme as well as testing wordpress & woocommerce plugins.
+Requires Wordpress: 6.4
+Requires PHP: 7.0
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: customwctheme
+Tags: custom, testing
+*/
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
